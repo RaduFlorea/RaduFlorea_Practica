@@ -1,0 +1,416 @@
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\ApplicationInsights.config
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\csc.exe
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\vbc.exe
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll.config
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.pdb
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\EntityFramework.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Owin.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\WebGrease.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.pdb
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\EntityFramework.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csprojResolveAssemblyReference.cache
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.dll
+c:\users\mfilipovici\documents\visual studio 2015\Projects\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\ApplicationInsights.config
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\csc.exe
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\vbc.exe
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll.config
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\EntityFramework.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Owin.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\WebGrease.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.pdb
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\EntityFramework.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csprojResolveAssemblyReference.cache
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\ASP.NET MVC - Prezentare + LiveCoding + Tema\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\ApplicationInsights.config
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\csc.exe
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\vbc.exe
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll.config
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\EntityFramework.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\WebGrease.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.pdb
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\EntityFramework.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csprojResolveAssemblyReference.cache
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\liveCoding\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\ApplicationInsights.config
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\csc.exe
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\vbc.exe
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll.config
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\EntityFramework.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Owin.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\WebGrease.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.pdb
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\EntityFramework.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.dll
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.pdb
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.Migrations.test.resources
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csproj.GenerateResource.Cache
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csprojResolveAssemblyReference.cache
+C:\Users\agiurescu\Desktop\liveCoding - bootstrap\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.Migrations.addedCommentmodelandlinkedittoEvent.resources
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\ApplicationInsights.config
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\csc.exe
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Collections.Immutable.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\System.Reflection.Metadata.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\vbc.exe
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\roslyn\VBCSCompiler.exe.config
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll.config
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\RequestWorkflow.pdb
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\EntityFramework.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Web.Infrastructure.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Owin.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\WebGrease.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.DependencyCollector.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.Web.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AI.WindowsServer.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.ApplicationInsights.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Helpers.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Mvc.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Optimization.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.Razor.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Deployment.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\System.Web.WebPages.Razor.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Antlr3.Runtime.pdb
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Newtonsoft.Json.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\EntityFramework.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\EntityFramework.SqlServer.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Google.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csprojResolveAssemblyReference.cache
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.Migrations.test.resources
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.Migrations.addedCommentmodelandlinkedittoEvent.resources
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.csproj.GenerateResource.Cache
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.dll
+F:\Practica\RequestWorkflow\RequestWorkflow\obj\Debug\RequestWorkflow.pdb

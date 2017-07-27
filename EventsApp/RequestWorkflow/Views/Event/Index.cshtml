@@ -1,0 +1,32 @@
+﻿@model IEnumerable<RequestWorkflow.Models.Event>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Events</h2>
+
+<p>
+    <button class="btn btn-primary btn-sm subscribeButton">@Html.ActionLink("Create New", "Create")</button>
+</p>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 eventDiv box">
+                @Html.DisplayFor(modelItem => item.FirstName)
+
+                @Html.DisplayFor(modelItem => item.LastName)
+
+                <br/>
+                @Html.ActionLink("Edit", "Update", new { id = item.Id })
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                <br/>
+                <button class="btn btn-danger btn-sm subscribeButton">Subscribe</button>
+                <button class="btn btn-warning btn-sm">@Html.ActionLink("Comments", "Index", "Comments") </button>
+            </div>            
+        }
+    </div>
+</div>
